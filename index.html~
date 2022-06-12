@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-06-12 Sun 16:39 -->
+<!-- 2022-06-12 Sun 16:41 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Forecast Health Australia</title>
@@ -23,18 +23,18 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgaa35420">Aims</a></li>
-<li><a href="#org870d165">Sharing our work</a></li>
-<li><a href="#org41a0992">Reviewing other models</a></li>
-<li><a href="#org05f2412">Contact</a></li>
-<li><a href="#org1ad3313">About</a></li>
+<li><a href="#org3b5a90e">Aims</a></li>
+<li><a href="#orgf68fbd5">Sharing our work</a></li>
+<li><a href="#org7de9cd2">Reviewing other models</a></li>
+<li><a href="#org7dd7075">Contact</a></li>
+<li><a href="#orgf57f000">About</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgaa35420" class="outline-2">
-<h2 id="orgaa35420">Aims</h2>
-<div class="outline-text-2" id="text-orgaa35420">
+<div id="outline-container-org3b5a90e" class="outline-2">
+<h2 id="org3b5a90e">Aims</h2>
+<div class="outline-text-2" id="text-org3b5a90e">
 <p>
 We aim to increase understanding about priority-setting in healthcare.
 We achieve this in the following ways:
@@ -47,9 +47,9 @@ We achieve this in the following ways:
 </div>
 </div>
 
-<div id="outline-container-org870d165" class="outline-2">
-<h2 id="org870d165">Sharing our work</h2>
-<div class="outline-text-2" id="text-org870d165">
+<div id="outline-container-orgf68fbd5" class="outline-2">
+<h2 id="orgf68fbd5">Sharing our work</h2>
+<div class="outline-text-2" id="text-orgf68fbd5">
 <p>
 You can find our GitHub repository at <a href="https://github.com/ForecastHealth">github.com/ForecastHealth</a>.
 Our codebase is currently private, but check back for regular updates.
@@ -57,9 +57,9 @@ Our codebase is currently private, but check back for regular updates.
 </div>
 </div>
 
-<div id="outline-container-org41a0992" class="outline-2">
-<h2 id="org41a0992">Reviewing other models</h2>
-<div class="outline-text-2" id="text-org41a0992">
+<div id="outline-container-org7de9cd2" class="outline-2">
+<h2 id="org7de9cd2">Reviewing other models</h2>
+<div class="outline-text-2" id="text-org7de9cd2">
 <p>
 We are always interested to review your, or other groups' models.
 Our general approach to this is follows:
@@ -78,18 +78,18 @@ Our general approach to this is follows:
 </div>
 
 
-<div id="outline-container-org05f2412" class="outline-2">
-<h2 id="org05f2412">Contact</h2>
-<div class="outline-text-2" id="text-org05f2412">
+<div id="outline-container-org7dd7075" class="outline-2">
+<h2 id="org7dd7075">Contact</h2>
+<div class="outline-text-2" id="text-org7dd7075">
 <p>
-If we can help you with any of our <a href="#orgaa35420">Aims</a>, please get in contact with us at <a href="mailto:info@forecasthealth.org">info@forecasthealth.org</a>
+If we can help you with any of our aims, please get in contact with us at <a href="mailto:info@forecasthealth.org">info@forecasthealth.org</a>
 </p>
 </div>
 </div>
 
-<div id="outline-container-org1ad3313" class="outline-2">
-<h2 id="org1ad3313">About</h2>
-<div class="outline-text-2" id="text-org1ad3313">
+<div id="outline-container-orgf57f000" class="outline-2">
+<h2 id="orgf57f000">About</h2>
+<div class="outline-text-2" id="text-orgf57f000">
 <p>
 Forecast Health Australia PTY LTD (ACN: 658 291 653) is an Australian Proprietary Company, Limted By Shares.
 </p>
@@ -103,7 +103,7 @@ You can find more information about him <a href="https://rorywatts.github.io/">h
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Forecast Health Australia PTY LTD</p>
-<p class="date">Created: 2022-06-12 Sun 16:39</p>
+<p class="date">Created: 2022-06-12 Sun 16:41</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
