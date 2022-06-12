@@ -26,7 +26,7 @@ Our general approach to this is follows:
 
 
 * Contact
-If we can help you with any of our [[Aims][Aims]], please get in contact with us at [[mailto:info@forecasthealth.org][info@forecasthealth.org]]
+If we can help you with any of our aims, please get in contact with us at [[mailto:info@forecasthealth.org][info@forecasthealth.org]]
 
 * About
 Forecast Health Australia PTY LTD (ACN: 658 291 653) is an Australian Proprietary Company, Limted By Shares.
