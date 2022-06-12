@@ -1,0 +1,9 @@
+Dockerfile
+README.md
+*.pickle
+*.pkl
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest.cache
