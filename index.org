@@ -11,7 +11,7 @@ We achieve this in the following ways:
 3) Reviewing other models
 
 * Sharing our work
-You can find our GitHub repository at [[https://github.com/ForecastHealth][github.com/ForecastHealth]].
+You can find our GitHub code repository at [[https://github.com/ForecastHealth][github.com/ForecastHealth]].
 Our codebase is currently private, but check back for regular updates.
 
 * Reviewing other models
@@ -23,7 +23,6 @@ Our general approach to this is follows:
 - review the re-written* model with modified assumptions
 
 /*We re-write the model using our codebase and engine/
-
 
 * Contact
 If we can help you with any of our aims, please get in contact with us at [[mailto:info@forecasthealth.org][info@forecasthealth.org]]
