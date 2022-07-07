@@ -4,13 +4,14 @@
 #+SETUPFILE:/home/rory/Documents/org-html-themes/org/theme-readtheorg-local.setup
 
 * Aims
-We aim to increase understanding about priority-setting in healthcare.
-We achieve this in the following ways:
-1) Building models
-2) Sharing our work
-3) Reviewing other models
+Forecast Health Australia aims to increase decision-making capacity in health.
+We make models and tools to help health, economic and financing decisions.
+We work globally, and do the following things:
+1) Create modelling tools
+2) Help you build models
+3) Review the models and tools of others
 
-* Sharing our work
+* Our Tools
 You can find our GitHub code repository at [[https://github.com/ForecastHealth][github.com/ForecastHealth]].
 Our codebase is currently private, but check back for regular updates.
 
@@ -22,7 +23,7 @@ Our general approach to this is follows:
 - review the re-written* model with original assumptions
 - review the re-written* model with modified assumptions
 
-/*We re-write the model using our codebase and engine/
+/*We re-write the model using our own tools/
 
 * Contact
 If we can help you with any of our aims, please get in contact with us at [[mailto:info@forecasthealth.org][info@forecasthealth.org]]
